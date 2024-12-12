@@ -12,7 +12,7 @@
 
 <body>
     <h1>Snake Game with 
-          <div class="box">sankes box</div>
+          <div class="box">snakes box</div>
     </h1>
     <canvas id="board"></canvas>
 </body>

@@ -120,3 +120,12 @@ function placeFood() {
     //in y coordinates.
     foodY = Math.floor(Math.random() * total_row) * blockSize; 
 }
+
+function show() {
+    /* Access image by id and change 
+    the display property to block*/
+    document.getElementById('myimage')
+        .style.display = "block";
+    document.getElementById('btnID')
+        .style.display = "none";
+}

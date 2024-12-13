@@ -1,6 +1,10 @@
 /* Write CSS Here */
 body {
     text-align: center;
+     #myimage{
+        display:none;
+        place-items: center;
+    }
 }
 .geeks {
     font-size: 40px;
